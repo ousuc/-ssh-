@@ -1,9 +1,9 @@
-#include <stdlib.h>
+#include <stdloi.h>
 
 int main(void)
 {
     printf("hello");
     
-    return 1;
+    return 0;
 }
 
